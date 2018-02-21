@@ -1,4 +1,4 @@
-# super-octo-system
+# animated-octo-goggles
 
 1. Replace the repository name in the title above with the name of your repository
 2. Answer these questions
