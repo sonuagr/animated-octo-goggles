@@ -1,4 +1,4 @@
-# X-Team NN Rules
+# animated-octo-goggles
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
